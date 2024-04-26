@@ -18,6 +18,6 @@ pca_plot <- ggplot(data = pcaData, aes(x = PC1, y = PC2,color = Species, shape =
 
 #output_file <- commandArgs(TRUE)[2]
 # Save plot as PNG image file
-png("PCA_result.png", width = 800, height = 600)
+png(paste(basename(input_data),sep="","PCA_result.png"), width = 800, height = 600)
 print(pca_plot)
 dev.off()
