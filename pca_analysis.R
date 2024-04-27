@@ -8,7 +8,7 @@ input_data <- read.csv(commandArgs(TRUE)[1],sep = "\t",row.names = 1)
 pca_result <- prcomp(input_data)
 
 pcaData <- as.data.frame(pca_result$x[, 1:2]) # extract first two columns and convert to data frame
-pcaData <- cbind(pcaData, iris$Species) # bind by columns
+pcaData <- cbind(pcaData, input_data$Species) # bind by columns
 colnames(pcaData) <- c("PC1", "PC2", "Species")
 
 pca_plot <- ggplot(data = pcaData, aes(x = PC1, y = PC2,color = Species, shape = Species)) +
