@@ -1,5 +1,5 @@
 # nextflow_pipeline_templates
-This repository contains the nextflow pipelines developed by me
+This repository contains the nextflow pipelines templates
 I have added threes basic pipelines here.
 
 **basic_io.nf**: A basic pipline which prints the output to screen for an input file
