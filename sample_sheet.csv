@@ -1,6 +1,4 @@
 sample,fastq_1,fastq_2
-CRC10_1,/mnt/acri7/acheema/MODELINE/FASTQ/for_nf_pipeline/CRC10_S20_L001_R1_001.fastq.gz,
-CRC10_2,/mnt/acri7/acheema/MODELINE/FASTQ/for_nf_pipeline/CRC10_S20_L002_R1_001.fastq.gz,
-CRC37_1,/mnt/acri7/acheema/MODELINE/FASTQ/for_nf_pipeline/CRC37_S54_L001_R1_001.fastq.gz,
-CRC37_2,/mnt/acri7/acheema/MODELINE/FASTQ/for_nf_pipeline/CRC37_S54_L002_R1_001.fastq.gz,
+CRC10,/mnt/acri7/acheema/MODELINE/FASTQ/for_nf_pipeline/CRC10_S20_L001_R1_001.fastq.gz,/mnt/acri7/acheema/MODELINE/FASTQ/for_nf_pipeline/CRC10_S20_L002_R1_001.fastq.gz,
+CRC37,/mnt/acri7/acheema/MODELINE/FASTQ/for_nf_pipeline/CRC37_S54_L001_R1_001.fastq.gz,/mnt/acri7/acheema/MODELINE/FASTQ/for_nf_pipeline/CRC37_S54_L002_R1_001.fastq.gz,
 
