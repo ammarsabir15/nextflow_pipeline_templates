@@ -1,8 +1,8 @@
 sample,fastq_1,fastq_2,data_type,batch,condition
-HPREC-Batch1,https://raw.githubusercontent.com/nf-core/test-datasets/refs/heads/evexplorer/ev_small_rna/HPREC-Batch1.fastq.sampled.fastq.gz,comboseq,1,disease
-HPREC-Batch2,https://raw.githubusercontent.com/nf-core/test-datasets/refs/heads/evexplorer/ev_small_rna/HPREC-Batch2.fastq.sampled.fastq.gz,comboseq,1,disease
-HPREC-Batch3,https://raw.githubusercontent.com/nf-core/test-datasets/refs/heads/evexplorer/ev_small_rna/HPREC-Batch3.fastq.sampled.fastq.gz,comboseq,2,disease
-HPREC-Batch4,https://raw.githubusercontent.com/nf-core/test-datasets/refs/heads/evexplorer/ev_small_rna/HPREC-Batch4.fastq.sampled.fastq.gz,comboseq,1,disease
-LNCAP-Batch3,https://raw.githubusercontent.com/nf-core/test-datasets/refs/heads/evexplorer/ev_small_rna/LNCAP-Batch3.fastq.sampled.fastq.gz,comboseq,1,normal
-LNCAP-Batch5,https://raw.githubusercontent.com/nf-core/test-datasets/refs/heads/evexplorer/ev_small_rna/LNCAP-Batch5.fastq.sampled.fastq.gz,comboseq,2,normal
-LNCAP-Batch6,https://raw.githubusercontent.com/nf-core/test-datasets/refs/heads/evexplorer/ev_small_rna/LNCAP-Batch6.fastq.sampled.fastq.gz,comboseq,2,normal
+HPREC-Batch1,https://raw.githubusercontent.com/nf-core/test-datasets/refs/heads/evexplorer/ev_small_rna/HPREC-Batch1.fastq.sampled.fastq.gz,NA,comboseq,1,disease
+HPREC-Batch2,https://raw.githubusercontent.com/nf-core/test-datasets/refs/heads/evexplorer/ev_small_rna/HPREC-Batch2.fastq.sampled.fastq.gz,NA,comboseq,1,disease
+HPREC-Batch3,https://raw.githubusercontent.com/nf-core/test-datasets/refs/heads/evexplorer/ev_small_rna/HPREC-Batch3.fastq.sampled.fastq.gz,NA,comboseq,2,disease
+HPREC-Batch4,https://raw.githubusercontent.com/nf-core/test-datasets/refs/heads/evexplorer/ev_small_rna/HPREC-Batch4.fastq.sampled.fastq.gz,NA,comboseq,1,disease
+LNCAP-Batch3,https://raw.githubusercontent.com/nf-core/test-datasets/refs/heads/evexplorer/ev_small_rna/LNCAP-Batch3.fastq.sampled.fastq.gz,NA,comboseq,1,normal
+LNCAP-Batch5,https://raw.githubusercontent.com/nf-core/test-datasets/refs/heads/evexplorer/ev_small_rna/LNCAP-Batch5.fastq.sampled.fastq.gz,NA,comboseq,2,normal
+LNCAP-Batch6,https://raw.githubusercontent.com/nf-core/test-datasets/refs/heads/evexplorer/ev_small_rna/LNCAP-Batch6.fastq.sampled.fastq.gz,NA,comboseq,2,normal
